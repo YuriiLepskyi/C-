@@ -1,0 +1,6 @@
+D:\Program C#\KM\KM\bin\Debug\KM.exe.config
+D:\Program C#\KM\KM\bin\Debug\KM.exe
+D:\Program C#\KM\KM\bin\Debug\KM.pdb
+D:\Program C#\KM\KM\obj\Debug\KM.csprojResolveAssemblyReference.cache
+D:\Program C#\KM\KM\obj\Debug\KM.exe
+D:\Program C#\KM\KM\obj\Debug\KM.pdb
