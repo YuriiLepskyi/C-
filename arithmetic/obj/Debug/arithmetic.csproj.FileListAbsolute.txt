@@ -1,0 +1,9 @@
+D:\Program C#\arithmetic\arithmetic\bin\Debug\arithmetic.exe.config
+D:\Program C#\arithmetic\arithmetic\bin\Debug\arithmetic.exe
+D:\Program C#\arithmetic\arithmetic\bin\Debug\arithmetic.pdb
+D:\Program C#\arithmetic\arithmetic\obj\Debug\arithmetic.csprojResolveAssemblyReference.cache
+D:\Program C#\arithmetic\arithmetic\obj\Debug\arithmetic.exe
+D:\Program C#\arithmetic\arithmetic\obj\Debug\arithmetic.pdb
+D:\Program C#\arithmetic\C-\arithmetic\bin\Debug\arithmetic.exe.config
+D:\Program C#\arithmetic\C-\arithmetic\obj\Debug\arithmetic.exe
+D:\Program C#\arithmetic\C-\arithmetic\obj\Debug\arithmetic.pdb
