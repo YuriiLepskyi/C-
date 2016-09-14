@@ -1,0 +1,6 @@
+D:\Program C#\Довжина кола\Довжина кола\bin\Debug\Довжина кола.exe.config
+D:\Program C#\Довжина кола\Довжина кола\bin\Debug\Довжина кола.exe
+D:\Program C#\Довжина кола\Довжина кола\bin\Debug\Довжина кола.pdb
+D:\Program C#\Довжина кола\Довжина кола\obj\Debug\Довжина кола.csprojResolveAssemblyReference.cache
+D:\Program C#\Довжина кола\Довжина кола\obj\Debug\Довжина кола.exe
+D:\Program C#\Довжина кола\Довжина кола\obj\Debug\Довжина кола.pdb
