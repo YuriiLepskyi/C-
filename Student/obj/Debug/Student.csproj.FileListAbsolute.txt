@@ -4,3 +4,6 @@ D:\Program C#\Student\Student\bin\Debug\Student.pdb
 D:\Program C#\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
 D:\Program C#\Student\Student\obj\Debug\Student.exe
 D:\Program C#\Student\Student\obj\Debug\Student.pdb
+D:\Program C#\C-\Student\bin\Debug\Student.exe.config
+D:\Program C#\C-\Student\obj\Debug\Student.exe
+D:\Program C#\C-\Student\obj\Debug\Student.pdb
